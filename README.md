@@ -15,6 +15,3 @@ This repository contains tasks related to the "Super Secret" project.
 
 ## How to Use
 Follow the links in the Table of Contents to view the details of each task.
-
-## License
-This project is licensed under the MIT License.
